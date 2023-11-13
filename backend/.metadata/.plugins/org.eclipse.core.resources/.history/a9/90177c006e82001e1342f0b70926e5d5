@@ -1,0 +1,5 @@
+package com.system.domain.model;
+
+public class Duvidas {
+
+}
